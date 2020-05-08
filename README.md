@@ -15,7 +15,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-[Get It Here](https://github.com/FrankyTheZapp/reignoftheoverlord/raw/master/Overlord.exe)
 
 - Bulleted
 - List
@@ -27,6 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[Get It Here](https://github.com/FrankyTheZapp/reignoftheoverlord/raw/master/Overlord.exe)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
