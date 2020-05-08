@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-[Get It Here!](https://github.com/FrankyTheZapp/reignoftheoverlord/raw/master/Overlord.exe)
+[Get It Here](https://github.com/FrankyTheZapp/reignoftheoverlord/raw/master/Overlord.exe)
 
 - Bulleted
 - List
