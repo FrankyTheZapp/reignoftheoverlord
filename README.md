@@ -8,5 +8,5 @@ Make sure that you and whoever you play with have the same version of the game.
 
 |Version|Date|Download|
 |-|:-:|-:|
-|0.0.1|8. Mai 2020|[Download](https://github.com/FrankyTheZapp/reignoftheoverlord/releases/download/0.0.1v/Overlord.exe)|
+|`0.0.1`|8. Mai 2020|[Download](https://github.com/FrankyTheZapp/reignoftheoverlord/releases/download/0.0.1v/Overlord.exe)|
 
