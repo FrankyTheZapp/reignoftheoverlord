@@ -2,6 +2,16 @@
 
 This is a temporary website to publish early versions of this game.
 
+### What I'm working on
+
+For version 0.0.4:
+
+* Fixing game timer seconds being only single digits
+* Fixing the player turret building cooldown not being applied
+* Decrease map size or at least make it feel closer
+* Implement boost functionality for all players (including the Overlord)
+* Implement an inhibitor turret for the Protectors (former "Players") to slow down the transporters (former "Enemies")
+
 ### Get it Here!
 
 Make sure that you and whoever you play with have the same version of the game.
