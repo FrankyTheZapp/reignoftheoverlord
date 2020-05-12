@@ -1,4 +1,4 @@
-## Welcome to Reign of the Overlord
+# Welcome to Reign of the Overlord
 
 This is a temporary website to publish early versions of this game.
 
