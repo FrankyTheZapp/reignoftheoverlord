@@ -20,7 +20,7 @@ Open the Build Menu, select a turret and place it down. When you are donw, close
 #### Controlls Overlord:
 
 |Description|Key|
-|:-:|:-:|
+|-|-|
 |Movement|WASD, Space Bar, Left Control|
 |Laser, Build|Left Mouse Button|
 |Bomb|F|
@@ -29,7 +29,7 @@ Open the Build Menu, select a turret and place it down. When you are donw, close
 
 #### Controlls Protectors:
 |Description|Key|
-|:-:|:-:|
+|-|-|
 |Movement|WASD|
 |Cannon, Select, Build|Left Mouse Button|
 |Open/Close Build Menu|Q|
