@@ -2,6 +2,10 @@
 
 This is a temporary website to publish early versions of this game.
 
+### Feetback
+
+Please leave your reviews, bug reports, critics, and suggestions [here](https://twitter.com/OverlordReign).
+
 ### How to Play
 
 Download and execute the newest version of Reign of the Overlord.
@@ -46,10 +50,6 @@ Open the Build Menu, select a turret and place it down. When you are donw, close
 * Fixed the ingame timer not showing preceding 0 on single digit seconds.
 * Increased the angle the Overlord can look up and down.
 * Added and implemented an Inhibitor Turret for the Protectors. It slows down all Transporters in its range.
-
-### Feetback
-
-Please leave your reviews, bug reports, critics, and suggestions [here](https://twitter.com/OverlordReign).
 
 ### Get it Here!
 
